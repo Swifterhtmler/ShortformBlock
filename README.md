@@ -3,7 +3,7 @@
 
 # ShortRemover
 
-ShortRemover is a safari extension for ios,ipadOS and MacOS via (macOS catalyst). 
+ShortRemover is a safari extension for ios,ipadOS and MacOS.
 
 
 
