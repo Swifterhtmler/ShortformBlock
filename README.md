@@ -1,7 +1,7 @@
 ![Picture of extensions](https://raw.githubusercontent.com/Swifterhtmler/shortRemover/refs/heads/main/AppIcon.appiconset/icon180.png)
 
 
-# ShortRemover
+# ShortformBlock
 
 ShortRemover is a safari extension for ios,ipadOS and MacOS.
 
