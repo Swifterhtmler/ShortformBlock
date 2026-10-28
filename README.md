@@ -16,6 +16,8 @@ You can download the app from app store, or by cloning this repo by running
 git clone https://github.com/Swifterhtmler/ShortformBlock.git
 ```
 
+and building from source (requiring macOS)
+
 
 ## FAQ
 
