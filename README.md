@@ -40,7 +40,8 @@ The app does not work on chrome as its desgined for safari.
 - Shorts visible/hidden toggle
 - No data collection
 - Works on mobile and desktop
-
+- Blocks youtube community posts
+- Works locally
 
 
 
