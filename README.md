@@ -10,7 +10,11 @@ ShortRemover is a safari extension for ios,ipadOS and MacOS.
 
 ## Installation
 
-You can download the app from app store
+You can download the app from app store, or by cloning this repo by running
+
+```bash
+git clone https://github.com/Swifterhtmler/ShortformBlock.git
+```
 
 
 ## FAQ
