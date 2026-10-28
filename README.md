@@ -23,7 +23,7 @@ The app is 100% free
 
 The app works on safari on ios.
 
-#### DOes the app work in chrome browser ?
+#### Does the app work in chrome browser ?
 
 The app does not work on chrome as its desgined for safari.
 
